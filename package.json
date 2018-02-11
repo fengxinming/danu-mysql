@@ -1,0 +1,24 @@
+{
+  "name": "danu-mysql",
+  "version": "1.0.0",
+  "description": "mysql client for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengxinming/danu-mysql.git"
+  },
+  "keywords": [
+    "es7",
+    "koa",
+    "mysql"
+  ],
+  "author": "Jesse Feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengxinming/danu-mysql/issues"
+  },
+  "homepage": "https://github.com/fengxinming/danu-mysql#readme"
+}
